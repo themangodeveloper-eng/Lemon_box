@@ -1,0 +1,6 @@
+{
+  "name": "lemon_box",
+  "description": "Retro Linux terminal emulator & desktop environment with modular panels, Dev toolchains (Git, Python, JDK, SDK, NDK), and scripting automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
